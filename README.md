@@ -9,6 +9,7 @@ Ce cours de 4h fournit une introduction aux enjeux de l'open data en SHS et cibl
 * comprendre le cycle de vie des données de recherche
 * comprendre le PGD et les principes FAIR
 * comprendre les fondements de l'open data
+* comprendre le régime juridique des données de recherche
 * savoir trouver des données ouvertes d'intérêt pour les réutiliser en recherche
 
 ## Syllabus 
