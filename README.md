@@ -1,6 +1,6 @@
 # Cours "Usages de l'open data en SHS" du M1 Sciences de l'éducation et de la formation
 
-Cours donné en 1e année du [Master Sciences de l'éducation et de la formation](https://sciences-education.u-bordeaux.fr/formations/master-sciences-de-leducation-et-de-la-formation) (Université de Bordeaux)
+Cours donné en 1e année du [Master Sciences de l'éducation et de la formation](https://sciences-education.u-bordeaux.fr/formations/master-sciences-de-leducation-et-de-la-formation) (Université de Bordeaux) dans le cadrz de l'UE "Documenter et médier".
 
 ## Objectifs pédagogiques 
 

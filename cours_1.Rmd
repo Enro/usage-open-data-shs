@@ -22,7 +22,7 @@ Penser aussi à ajouter au début des diapos sur la notion de données (définit
 
 # Fondements de l'open data
 
-## M1 Sciences de l'éducation<br />UE "Usages de l'open data en SHS"
+## M1 Sciences de l'éducation<br />Cours "Usages de l'open data en SHS"
 
 ### Antoine Blanchard
 

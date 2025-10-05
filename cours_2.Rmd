@@ -17,7 +17,7 @@ class: center, middle, inverse, title-slide
 
 # Réutilisation des données en SHS
 
-## M1 Sciences de l'éducation<br />UE "Usages de l'open data en SHS"
+## M1 Sciences de l'éducation<br />Cours "Usages de l'open data en SHS"
 
 ### Antoine Blanchard
 
@@ -37,34 +37,7 @@ class: inverse, mline, center, middle
 ---
 class: clear
 
-## La gestion des données : longtemps impensée
-<br />
-<br />
-
-.center[
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o8acXD4s5iU?start=1863" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>]
-
-???
-
-Jusqu'à "… pourquoi est-ce que finalement quand il s'agit de les verser dans le domaine public ou d'en faire une chose publique, pourquoi est-ce que cette chose n'est pas pensée ?" (33'44)
-
-La stratégie de gestion des données reste le plus souvent impensée.
-
----
-class: clear
-
-## Si ce n'est pas le travail du chercheur, ça doit être celui de son institution !
-<br />
-
-> **Il faut envisager la gestion des données comme une affaire institutionnelle plutôt que comme la seule responsabilité du chercheur ou de la chercheuse**. Le niveau d’assistance fourni varie largement selon les domaines et les institutions. (…) Les universités et les autres institutions de recherche sont parfois bien dotées en professionnelles et professionnels de l’information pour aider à la gestion des données, à l’assignation de métadonnées, à la migration vers de nouvelles plateformes, au dépôt, à la découverte et aux types de coordination, mais elles restent une exception. (…) Pour les personnels de recherche, les bibliothèques, les départements et les chercheurs des universités, les données peuvent représenter une charge autant qu’un atout.
-
-.footnote[Borgman, Christine L. (2020). *Qu’est-ce que le travail scientifique des données ? Big data, little data, no data*. Marseille : OpenEdition Press. https://doi.org/10.4000/books.oep.14792]
-
-
----
-class: clear
-
-## L'alternative : ne rien faire (au risque de perdre des données)
+## Ce qu'il faut éviter
 
 .center[
 <img src="img/perte-donnees.png" width="70%">]
@@ -169,21 +142,6 @@ Acculturation nécessaire du chercheur qui se sent propriétaire des données.
 ---
 class: clear
 
-## Différents types d'entrepôts de données
-
-<br />
-<br />
-
-.center[
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P612sq45XxE" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>]
-
-???
-
-Toute la vidéo.
-
----
-class: clear
-
 ## Partager ses données de recherche
 
 <br />
@@ -197,23 +155,11 @@ class: clear
 
 Témoigne d'une chercheuse en topographie qui partage ses données de recherche (jusqu'à la fin de l'entretien avec Tania à 4'48).
 
----
-class: clear
-
-## La situation particulière des SHS
-<br />
-
-.center[
-<iframe width="560" height="315" src="https://www.canal-u.tv/chaines/univ-bordeaux/embed/107697?t=3483" allowfullscreen></iframe>]
-
-???
-
-Jusqu'à 1h06'27'' : "…l'argument n'était pas un argument discrétionnaire, ça devait être un argument fondé, et notamment un argument fondé en droit."
 
 ---
 class: clear
 
-## Qui va réutiliser les données de recherche ?
+## Réutiliser les données pour la recherche
 <br />
 
 > « Ça n’est pas juste partager les données pour partager les données. Il y a toute une mentalité derrière, qui est concomitante. **La modélisation, que j’ai faite durant ma thèse sur les primates, a ensuite été réutilisée par d’autres personnes, qui ont utilisé mes formules chez les humains et qui m’ont posé des questions auxquelles j’ai répondu. Du coup, c’est intéressant**, parce que vous n’êtes pas forcément co-auteur de ces publications mais vous êtes cités. Et ensuite les personnes vous connaissent. Ça veut dire que, quand elles ont besoin d’organiser un symposium, elles vont faire appel à vous. **Donc vous n’êtes pas récompensés tout de suite, mais un peu plus tard.** »
@@ -223,8 +169,7 @@ class: clear
 ---
 class: clear
 
-## Réutilisations de données
-### Pour l'enseignement
+## Réutiliser les données pour l'enseignement
 <br />
 
 .center[
@@ -233,22 +178,7 @@ class: clear
 ---
 class: clear
 
-## Réutilisations de données
-### Pour la circulation des connaissances
-<br />
-
-> Par exemple, sollicité au sujet du projet **Wikidata**, le CNRS a répondu que les chercheurs avaient des droits d’auteurs sur leur contribution, or une telle réponse impliquerait de contacter un par un les 8 800 chercheurs du CNRS afin de pouvoir réutiliser leurs contributions. Lorsque ces mêmes chercheurs publient leurs données sous licence libre, dans *PLoS* par exemple, on est obligé de passer par un intermédiaire privé (une fondation) pour récupérer des données financées sur des fonds public…
-
-.footnote[Collectif (2012). « Open data en SHS », in *THATCamp Paris 2012*. Paris : Éditions de la Maison des Sciences de l'Homme. http://editionsmsh.revues.org/364]
-
-???
-
-Qu'est-ce qui vous choque dans cet exemple ?
-
----
-class: clear
-
-## Des réutilisations de données à succès
+## Exemple de données ouvertes : la recherche sur Alzheimer
 
 .center[
 <img src="img/NYT_Alzheimer.jpg" width="95%">]
@@ -256,7 +186,7 @@ class: clear
 ---
 class: clear
 
-## Des réutilisations de données à succès
+## Exemple de données ouvertes : le génome des plantes cultivées
 <br />
 
 .center[
@@ -267,22 +197,152 @@ class: clear
 ---
 class: clear
 
-## Des réutilisations de données à succès
+## Exemple de données ouvertes : la [base SIRENE](https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/)
+
+.reduite.center[![](img/sirene.png)]
+
+
+---
+class: clear
+
+## Exemple de données ouvertes : les [valeurs foncières](https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/)
+
+![](./img/dvf.png)
+
+---
+class: clear
+
+## Exemple de réutilisation : les valeurs foncières
+
+.reduite.center[
+[![](./img/meilleursagents.png)](https://www.meilleursagents.com/prix-immobilier/dvf/aix-en-provence-13100/avenue-saint-jerome-1108044769/)
+]
+
+---
+class: clear
+
+## Exemple de données ouvertes : [Campagnes photographiques des Monuments Historiques](https://data.culture.gouv.fr/explore/dataset/photographies-serie-monuments-historiques-de-1851-a-1914/images/?refine.nom_reg=BRETAGNE&refine.nom_dept=FINISTERE&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQ09VTlQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjNjZjMmE1In1dLCJ4QXhpcyI6Im5vbV9yZWciLCJtYXhwb2ludHMiOjUwLCJzb3J0IjoiIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJwaG90b2dyYXBoaWVzLXNlcmllLW1vbnVtZW50cy1oaXN0b3JpcXVlcy1kZS0xODUxLWEtMTkxNCIsIm9wdGlvbnMiOnt9fX1dLCJ0aW1lc2NhbGUiOiIiLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlfQ%3D%3D&location=5,46.50652,2.39891)
+<br />
+![](img/dataculture.png)
+
+---
+class: clear
+
+## Exemple de données ouvertes : Open Food Facts 
+
+![](img/OFF.png)
+???
+
+Fichier de 4 millions de lignes.
+
+---
+class: clear
+
+## Exemple de réutilisation : Yuka
+
+![](img/Yuka.jpg)
+---
+class: clear
+
+## Exemple de données ouvertes : données temps réel sur les transports en commun
+
+![](img/PAN_transport.png)
+---
+class: clear
+
+## Exemple de réutilisation : les applications de mobilité
+
+.center[.reduite[![](img/CityMapper.png)]]
+
+---
+class: inverse, mline, center, middle
+
+# La réalité des entrepôts de données
+
+
+---
+class: clear
+
+## Le problème de la qualité des données
+<br />
+<br />
+> **Les données des gouvernements sont souvent incomplètes, pas actualisées, de mauvaise qualité et fragmentaires.** 
+
+> Dans la plupart des cas, les catalogues ou portails de données ouvertes sont alimentés manuellement, conséquence d’une approche informelle de la gestion des données. 
+
+> De plus, les procédures, les calendriers et les responsabilités des institutions publiques chargées de leur gestion manquent souvent de clarté. Ainsi, de manière générale, la gestion et la publication des données ouvertes sont fragiles et sujettes à des erreurs multiples.
+
+.footnote[Source : 
+[Rapport mondial du 4e Open Data Barometer](https://opendatabarometer.org/4thedition/report/?lang=fr)
+]
+
+---
+class: clear
+
+## Des données bien cachées
+<br />
+<br />
+> La découvrabilité des données est un défi majeur. Nous avons des portails et des registres de données, mais les organismes gouvernementaux qui relèvent d'un seul gouvernement national publient toujours les données de différentes façons et à différents endroits (...).
+
+> **La découvrabilité des données est une condition préalable pour que les données ouvertes réalisent leur potentiel et, actuellement, la plupart des données sont très difficiles à trouver**.
+
+
+.footnote[Source : https://index.okfn.org/insights/]
+
+---
+class: clear
+
+## Différents types d'entrepôts de données de recherche
+
+<br />
 <br />
 
-#### 1. Se rendre sur https://entrepot.recherche.data.gouv.fr/
-
---
-
-#### 2. Trouver le jeu de données qui a été le plus téléchargé
-
---
-
-#### 3. Formulez une hypothèse pour expliquer pourquoi ce jeu de données a été beaucoup téléchargé.
+.center[
+<iframe width="560" height="315" src="https://www.canal-u.tv/chaines/callisto/embed/134293?t=0" allowfullscreen></iframe>]
 
 ???
 
-Ex. Dutch Data Prize 2022 : https://data.4tu.nl/articles/dataset/STORM_IBTrACS_present_climate_synthetic_tropical_cyclone_tracks/12706085/2
+Toute la vidéo.
+
+
+
+---
+class: clear
+
+## Une multitude de portails territoriaux
+
+[![](./img/portailslocaux.gif)](https://airtable.com/shrmZOh5If14Q1PVN/tblwklJPsyayeH5lX?blocks=hide)
+
+---
+class: clear
+
+## Une multitude de portails nationaux
+
+[![](./img/portailsnat.gif)](https://airtable.com/shr3IYfHZW1cVTS3s/tblVtTOudK5Ygpsmj?blocks=hide)
+
+---
+class: inverse, mline, center, middle
+
+# Devoir sur ordinateur
+
+---
+class: clear
+
+## Évaluer un jeu de données à réutiliser
+<br />
+
+
+Ce devoir (à réaliser en binôme) vous met dans la peau d'un réutilisateur de données qui doit trouver des données publiées répondant à son besoin.
+<br />
+<br />
+Vous allez suivre différentes étapes qui vont vous conduire à trouver et évaluer ce jeu de données.
+
+.center.inverse.font120[https://moodle.u-bordeaux.fr/enrol/index.php?id=23745] 
+
+???
+
+Lien direct vers le devoir : https://moodle.u-bordeaux.fr/course/section.php?id=229581
+
 
 ---
 class: inverse, mline, center, middle
