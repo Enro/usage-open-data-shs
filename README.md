@@ -24,6 +24,8 @@ Concept de données. Origine de l'open data. Régime juridique des données publ
 
 ### Session n° 2
 
+Enjeu de gestion des données de recherche. Plan de gestion des données (PGD). Partage et réutilisation des données en recherche. Exemples de données ouvertes. Portails et entrepôts de données.
+
 **Mardi 7 octobre : 8h30-10h30**
 
 * [support de présentation](cours_2.html)
