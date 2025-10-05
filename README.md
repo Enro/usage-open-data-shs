@@ -26,4 +26,4 @@ Concept de données. Origine de l'open data. Régime juridique des données publ
 
 **Mardi 7 octobre : 8h30-10h30**
 
-
+* [support de présentation](cours_2.html)
