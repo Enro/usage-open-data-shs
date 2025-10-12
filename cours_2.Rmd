@@ -29,6 +29,10 @@ class: center, middle, inverse, title-slide
 <img src="img/by-sa.png" width="25%">
 ]
 
+???
+
+Commencer avec des rappels du cours précédent.
+
 ---
 class: inverse, mline, center, middle
 
@@ -233,7 +237,7 @@ class: clear
 ![](img/OFF.png)
 ???
 
-Fichier de 4 millions de lignes.
+Fichier de 4 millions de lignes. Né en 2012 sous l'impulsion de deux français.
 
 ---
 class: clear
@@ -241,6 +245,17 @@ class: clear
 ## Exemple de réutilisation : Yuka
 
 ![](img/Yuka.jpg)
+
+---
+class: clear
+
+## Exemple de réutilisation : l'étude NutriNet-Santé
+<br />
+L'Équipe de recherche en épidémiologie nutritionnelle (EREN) utilise Open Food Facts pour connaître la **composition des produits alimentaires consommés par les 160 000 participants de l'étude NutriNet-Santé**, vaste étude épidémiologique visant à analyser les liens entre la nutrition, la santé et les comportements alimentaires.
+<br />
+<br />
+.center[![](img/Eren.png)]
+
 ---
 class: clear
 
@@ -253,6 +268,10 @@ class: clear
 ## Exemple de réutilisation : les applications de mobilité
 
 .center[.reduite[![](img/CityMapper.png)]]
+
+???
+
+Ajouter les exemples de médiation des données Covid.
 
 ---
 class: inverse, mline, center, middle
@@ -320,6 +339,10 @@ class: clear
 
 [![](./img/portailsnat.gif)](https://airtable.com/shr3IYfHZW1cVTS3s/tblVtTOudK5Ygpsmj?blocks=hide)
 
+???
+
+1h de cours : faire une pause de 15 min puis lancer le devoir : les étudiants doivent créer un groupe et les deux étudiants rejoignent le groupe (je peux aussi le faire à la main). Ils déposent un seul devoir pour les deux.
+
 ---
 class: inverse, mline, center, middle
 
@@ -336,8 +359,9 @@ Ce devoir (à réaliser en binôme) vous met dans la peau d'un réutilisateur de
 <br />
 <br />
 Vous allez suivre différentes étapes qui vont vous conduire à trouver et évaluer ce jeu de données.
-
-.center.inverse.font120[https://moodle.u-bordeaux.fr/enrol/index.php?id=23745] 
+<br />
+<br />
+.font180[➡️ https://moodle.u-bordeaux.fr/enrol/index.php?id=23745] 
 
 ???
 
