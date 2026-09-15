@@ -222,6 +222,10 @@ class: clear
 [![](./img/meilleursagents.png)](https://www.meilleursagents.com/prix-immobilier/dvf/aix-en-provence-13100/avenue-saint-jerome-1108044769/)
 ]
 
+???
+
+Outre Meilleurs Agents, ces données sont utilisées par SeLoger, des startups (Homedata, Kelquartier...) et des acteurs publics (MTE, CEREMA, ADEME).
+
 ---
 class: clear
 
@@ -255,6 +259,9 @@ L'Équipe de recherche en épidémiologie nutritionnelle (EREN) utilise Open Foo
 <br />
 <br />
 .center[![](img/Eren.png)]
+
+.footnote[Source ": "[Blog Open Food Facts](https://blog.openfoodfacts.org/fr/news/la-recherche-au-service-de-la-nutrition-et-de-la-sante)"]
+
 
 ---
 class: clear
