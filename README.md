@@ -1,6 +1,10 @@
 # Cours "Usages de l'open data en SHS" du M1 Sciences de l'éducation et de la formation
 
-Cours donné en 1e année du [Master Sciences de l'éducation et de la formation](https://sciences-education.u-bordeaux.fr/formations/master-sciences-de-leducation-et-de-la-formation) (Université de Bordeaux) dans le cadrz de l'UE "Documenter et médier".
+Cours donné en 1e année du [Master Sciences de l'éducation et de la formation](https://sciences-education.u-bordeaux.fr/formations/master-sciences-de-leducation-et-de-la-formation) (Université de Bordeaux) dans le cadre de l'UE "Documenter et médier".
+
+Années universitaires concernées :
+* 2025-2026
+* 2026-2027
 
 ## Objectifs pédagogiques 
 
@@ -16,7 +20,7 @@ Ce cours de 4h fournit une introduction aux enjeux de l'open data en SHS et cibl
 
 ### Session n° 1
 
-**Mercredi 24 septembre : 13h30-15h30**
+**Vendredi 18 septembre : 10h30-12h30**
 
 Concept de données. Origine de l'open data. Régime juridique des données publiques. Application aux données de recherche. Principe "Aussi ouvert que possible, aussi fermé que nécessaire". Politiques des données de recherche. Principes FAIR.
 
@@ -24,7 +28,7 @@ Concept de données. Origine de l'open data. Régime juridique des données publ
 
 ### Session n° 2
 
-**Mardi 7 octobre : 8h30-10h30**
+**Vendredi 25 septembre : 10h30-12h30**
 
 Enjeu de gestion des données de recherche. Plan de gestion des données (PGD). Partage et réutilisation des données en recherche. Exemples de données ouvertes. Portails et entrepôts de données. Devoir : évaluation d'un jeu de données en vue de sa réutilisation.
 
