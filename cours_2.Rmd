@@ -2,7 +2,7 @@
 title: Réutilisation des données en SHS
 subtitle: M1 Sciences de l'éducation - UE "Usages de l'open data en SHS"
 author: "Antoine Blanchard"
-date: "Octobre 2025"
+date: "Septembre 2026"
 institute: "Licence CC-BY-SA"
 output:
   xaringan::moon_reader:
@@ -21,7 +21,7 @@ class: center, middle, inverse, title-slide
 
 ### Antoine Blanchard
 
-### Octobre 2025
+### Septembre 2026
 <br />
 <br />
 
@@ -34,47 +34,70 @@ class: center, middle, inverse, title-slide
 Commencer avec des rappels du cours précédent.
 
 ---
-class: inverse, mline, center, middle
+class: clear
 
-# La recherche gère des données
+## La production des données est indissociable du travail du chercheur (1)
+<br />
+
+> Les scientifiques s’attirent davantage de crédit pour la collecte ou la création de nouvelles données que pour l’exploitation de données existantes.
+
+.footnote[Borgman, Christine L. (2020). *Qu’est-ce que le travail scientifique des données ? Big data, little data, no data*. Marseille : OpenEdition Press. https://doi.org/10.4000/books.oep.14792]
 
 ---
 class: clear
 
-## Ce qu'il faut éviter
-
-.center[
-<img src="img/perte-donnees.png" width="70%">]
-
-.footnote[Vines et al. (2014). "The Availability of Research Data Declines Rapidly with Article Age". *Current Biology* 24 , 94– 97, https://doi.org/10.1016/j.cub.2013.11.014]
-
-???
-
-*extant* = soit "partagées" soit "existantes mais pas partagées"
-
----
-class: clear
-
-## Planifier la gestion de ses données : le PGD (1)
-
-.center[
-<iframe src="https://view.genial.ly/6167ef6360a1bd0deae6ca66" width="100%" height="580"></iframe>]
-
-???
-
-Source : http://doi.org/10.13143/T3J4-VN03
-
-
----
-class: clear
-
-## Planifier la gestion de ses données : le PGD (2)
+## La production des données est indissociable du travail du chercheur (2)
 <br />
 
 .center[
-<img src="img/dmpboxes.png" width="80%">]
+<iframe width="560" height="315" src="https://www.canal-u.tv/chaines/univ-bordeaux/embed/107705?t=852" allowfullscreen></iframe>
+]
 
-.footnote[Cocaud, Sylvie, et Dominique l’Hostis (2019). *Pourquoi et comment rédiger un plan de gestion de données ?*. https://hal.inrae.fr/hal-02791507]
+.footnote[Pablo Diaz (2021). "Session 3 - « Ouvert autant que possible ; fermé autant que nécessaire » : comment positionner le curseur ?", *Journées annuelles Mate-shs*, Bordeaux, 24-25 juin]
+
+???
+
+Jusqu'à "… même avec toute la bonne volonté du monde ça peut être problématique." (14'50)
+
+Pablo Diaz est sociologue à l'université de Lausanne (FORS-Unil)
+
+---
+class: clear
+
+## La production des données est indissociable du travail du chercheur (3)
+<br />
+
+> "il est souvent plus rapide de refaire une expérience plutôt que de fouiller pendant des jours à la recherche d’une donnée. La masse de données et d’expériences déjà existantes à travers la quantité de publications scientifiques à l’échelle mondiale est telle que le temps de recherche bibliographique dépasse souvent le temps que prendra l’expérience envisagée. C’est une des raisons majeures pour ne pas ré-utiliser des données existantes. On a plus vite fait de synthétiser et caractériser un produit soi-même plutôt que d’aller chercher dans une base de données toutes les synthèses alternatives possible et sa caractérisation."
+
+.footnote[Extrait d'un plan de gestion des données en chimie de la matière molle]
+
+---
+class: clear
+
+## Les données ont une valeur
+
+> « Pour les données très sensibles comme celles-là (sensibles parce que c’est 1 500 € le séquençage), on a un triple stockage. »
+
+&nbsp;
+
+> « La valeur qu’on peut donner aux données, c’est toute la masse d’argent qui a été investie pour les obtenir. Par masse d’argent, je pense aux animaux, aux réactifs, aux salaires… »
+
+&nbsp;
+
+> « Il y a un aspect un peu précieux de la donnée, qui est qu’on ne la montre pas avant de l’avoir soi-même exploitée. C’est tout l’enjeu de la compétition scientifique. »
+
+.footnote[Violaine Rebouillat (2021). "Le partage des données vu par les chercheurs : une approche par la valeur". *Les Enjeux de l'information et de la communication*, 22(1), 35-53. https://doi.org/10.3917/enic.030.0035]
+
+---
+class: clear
+
+## S'ils quittaient leur labo, les chercheurs emporteraient-ils leurs données avec eux ?
+
+.center[
+<img src="img/img-8.png" width="65%">
+]
+
+.footnote[Philippe Amiel, Francesca Frontini, Pierre-Yves Lacour et Agnès Robin (2020). “Pratiques de gestion des données de la recherche : une nécessaire acculturation des chercheurs aux enjeux de la science ouverte ?”. *Cahiers Droit, Sciences & Technologies*, Vol. 10, pp. 147-168.]
 
 ---
 class: inverse, mline, center, middle
@@ -398,12 +421,5 @@ class: clear
 
 .center[
 [<img src="img/Padme upon request.jpeg" width="70%">](https://twitter.com/johnborghi/status/1405227318876905472?s=11)
-]
-
----
-class: clear
-
-.center[
-[<img src="img/Padme documentation.jpeg" width="70%">](https://twitter.com/JohnBorghi/status/1405228172937887749)
 ]
 
