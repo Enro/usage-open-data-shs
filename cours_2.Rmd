@@ -420,6 +420,6 @@ class: inverse, mline, center, middle
 class: clear
 
 .center[
-[<img src="img/Padme upon request.jpeg" width="70%">](https://twitter.com/johnborghi/status/1405227318876905472?s=11)
+[<img src="img/Padme documentation.jpeg" width="70%">](https://twitter.com/JohnBorghi/status/1405228172937887749)
 ]
 

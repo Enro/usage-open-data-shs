@@ -31,6 +31,11 @@ class: center, middle, inverse, title-slide
 
 .center[Cette présentation réutilise des [contenus publiés par Datactivist](https://datactivist.coop/oraccle/comprendre_open_data/comprendreod.html) sous licence CC-BY-SA.]
 
+<!--
+ajouter une diapo sur le PNSO 2026-2033
+intervertir l'image Padme Amidala avec le cours 2
+-->
+
 ---
 class: clear
 
@@ -520,7 +525,7 @@ class: clear
 
 ???
 
-45 minutes sont passées : pause
+50 minutes sont passées : pause
 
 ---
 class: clear
@@ -648,5 +653,5 @@ class: inverse, mline, center, middle
 class: clear
 
 .center[
-[<img src="img/Padme documentation.jpeg" width="70%">](https://twitter.com/JohnBorghi/status/1405228172937887749)
+[<img src="img/Padme upon request.jpeg" width="70%">](https://twitter.com/johnborghi/status/1405227318876905472?s=11)
 ]
