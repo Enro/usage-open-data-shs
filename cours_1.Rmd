@@ -32,8 +32,8 @@ class: center, middle, inverse, title-slide
 .center[Cette présentation réutilise des [contenus publiés par Datactivist](https://datactivist.coop/oraccle/comprendre_open_data/comprendreod.html) sous licence CC-BY-SA.]
 
 <!--
+je termine 10 min avant la fin du cours
 ajouter une diapo sur le PNSO 2026-2033
-intervertir l'image Padme Amidala avec le cours 2
 -->
 
 ---
@@ -525,7 +525,7 @@ class: clear
 
 ???
 
-50 minutes sont passées : pause
+50 minutes sont passées : pause de 15 minutes
 
 ---
 class: clear
@@ -545,6 +545,9 @@ Exemple de l'Université libre de Bruxelles (pp. 5-7) : https://s.42l.fr/ulb]
 ???
 
 Les laisser lire le texte (pp. 5-7) et le debriefer à l'oral. Qu'en retenez-vous ? Qu'est-ce qui vous surprend ?
+
+* engagement de l'ULB vs. engagement des chercheurs
+* "gestion minutieuse"
 
 
 ---

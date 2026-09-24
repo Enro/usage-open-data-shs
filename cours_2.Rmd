@@ -161,7 +161,7 @@ class: clear
 
 ???
 
-Jusqu'à "… c'est très très difficile d'acculturer les chercheurs à cette question du partage et de l'open data." (21'52)
+21'21 jusqu'à "… c'est très très difficile d'acculturer les chercheurs à cette question du partage et de l'open data." (21'52)
 
 Acculturation nécessaire du chercheur qui se sent propriétaire des données.
 
@@ -180,7 +180,7 @@ class: clear
 
 ???
 
-Témoigne d'une chercheuse en topographie qui partage ses données de recherche (jusqu'à la fin de l'entretien avec Tania à 4'48).
+Témoigne d'une chercheuse en topographie qui partage ses données de recherche (2'58 jusqu'à la fin de l'entretien avec Tania à 4'48).
 
 
 ---
@@ -234,7 +234,7 @@ class: clear
 
 ## Exemple de données ouvertes : les [valeurs foncières](https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/)
 
-![](./img/dvf.png)
+![](img/dvf.png)
 
 ---
 class: clear
@@ -242,7 +242,7 @@ class: clear
 ## Exemple de réutilisation : les valeurs foncières
 
 .reduite.center[
-[![](./img/meilleursagents.png)](https://www.meilleursagents.com/prix-immobilier/dvf/aix-en-provence-13100/avenue-saint-jerome-1108044769/)
+[![](img/meilleursagents.png)](https://www.meilleursagents.com/prix-immobilier/dvf/aix-en-provence-13100/avenue-saint-jerome-1108044769/)
 ]
 
 ???
@@ -297,11 +297,42 @@ class: clear
 
 ## Exemple de réutilisation : les applications de mobilité
 
-.center[.reduite[![](img/CityMapper.png)]]
+.center[
+<img src="img/CityMapper.png" width="65%">
+]
 
-???
+---
+class: clear
 
-Ajouter les exemples de médiation des données Covid.
+## Exemple de données ouvertes : données sur le Covid-19
+
+.pull-left[
+_« Le libre accès aux données relatives à l’épidémie, ce qu’on appelle l’open data, assure la confiance des citoyens dans les éléments qui leur sont communiqués, favorise les actions de prévention contre la propagation du virus et facilite la prise de décision.
+La diffusion et l’exploitation de ces données ont été rendues possibles grâce à une collaboration étroite entre plusieurs administrations et la société civile.»_
+
+J. Salomon, directeur national de la santé, point presse coronavirus du 28 mars 2020
+
+]
+
+.pull-right[
+[
+![](img/salomon.png)](https://www.youtube.com/watch?v=dXvObKQ24ps)
+
+]
+
+---
+class: clear 
+
+![](img/Hhwvn-data-gouv-fr-des-pics-de-fr-quentation-li-s-aux-confinements.png)
+
+---
+class: clear
+
+## Exemple de réutilisation : les tableaux de bord Covid
+
+.center[
+<img src="img/covidtracker.png" width="75%">
+]
 
 ---
 class: inverse, mline, center, middle
@@ -396,6 +427,8 @@ Vous allez suivre différentes étapes qui vont vous conduire à trouver et éva
 ???
 
 Lien direct vers le devoir : https://moodle.u-bordeaux.fr/course/section.php?id=229581
+
+Ouvert jusqu'au 4 octobre minuit.
 
 
 ---
