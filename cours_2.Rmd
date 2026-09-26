@@ -25,6 +25,10 @@ class: center, middle, inverse, title-slide
 <br />
 <br />
 
+<!-- 
+ajouter une diapo sur les méta-annuaires utilisés dans le devoir
+-->
+
 .center[
 <img src="img/by-sa.png" width="25%">
 ]
@@ -429,6 +433,8 @@ Vous allez suivre différentes étapes qui vont vous conduire à trouver et éva
 Lien direct vers le devoir : https://moodle.u-bordeaux.fr/course/section.php?id=229581
 
 Ouvert jusqu'au 4 octobre minuit.
+
+Trois membres maximum par groupe.
 
 
 ---
